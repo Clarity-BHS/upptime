@@ -12,7 +12,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  baseUrl: https://clarity-bhs.github.io/upptime/
+  baseUrl: /upptime
   logoUrl: https://github.com/Clarity-BHS/upptime/blob/master/Clarity-Logo.png?raw=true
   name: Clarity BHS
   introTitle: "**Clarity BHS** Platform Status"
@@ -22,6 +22,9 @@ status-website:
       href: https://clarity-bhs.github.io/upptime/
     - title: Engage By Clarity
       href: https://engagebyclarity.com/
+  links:
+    - rel: stylesheet
+      href: https://claritybhs.github.io/global.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
