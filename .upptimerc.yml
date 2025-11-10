@@ -17,6 +17,7 @@ status-website:
   name: Engage by Clarity
   introTitle: "**Engage by Clarity** Platform Status"
   introMessage: Clarity's innovative computer tablet, Engage, is the first tablet specifically designed for inpatient behavioral health facilities. Engage supports active treatment, improves staff workflows, and boosts financial performance.
+  favicon: https://engagebyclarity.com/assets/front/images/favicon.ico
   navbar:
     - title: Status
       href: https://clarity-bhs.github.io/upptime/
