@@ -13,7 +13,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.engagebyclarity.com
   #baseUrl: /upptime
-  logoUrl: https://github.com/Clarity-BHS/upptime/blob/master/clarity-logo-512.png?raw=true
+  logoUrl: https://github.com/Clarity-BHS/upptime/blob/master/engage-logo-small.png?raw=true
+  # https://github.com/Clarity-BHS/upptime/blob/master/clarity-logo-512.png?raw=true
   # https://cdn.prod.website-files.com/669e92eba691ad0ec575cf37/669e92eba691ad0ec575cfbe_clarity_logo_knockout.svg
   name: Engage by Clarity
   introTitle: "**Engage by Clarity** Platform Status"
@@ -22,8 +23,10 @@ status-website:
   navbar:
     - title: Status
       href: https://clarity-bhs.github.io/upptime/
-    - title: Engage by Clarity
+    - title: Login
       href: https://engagebyclarity.com/
+    - title: Clarity BHS, LLC
+      href: https://www.claritybhs.com/
   links:
     - rel: stylesheet
       href: https://claritybhs.github.io/global.css
