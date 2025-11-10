@@ -13,7 +13,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://cdn.prod.website-files.com/669e92eba691ad0ec575cf37/669e92eba691ad0ec575cfbe_clarity_logo_knockout.svg
+  logoUrl: https://github.com/Clarity-BHS/upptime/blob/master/clarity-logo-512.png?raw=true
+  # https://cdn.prod.website-files.com/669e92eba691ad0ec575cf37/669e92eba691ad0ec575cfbe_clarity_logo_knockout.svg
   name: Engage by Clarity
   introTitle: "**Engage by Clarity** Platform Status"
   introMessage: Clarity's innovative computer tablet, Engage, is the first tablet specifically designed for inpatient behavioral health facilities. Engage supports active treatment, improves staff workflows, and boosts financial performance.
