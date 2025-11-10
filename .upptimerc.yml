@@ -19,7 +19,7 @@ status-website:
   introMessage: Clarity's innovative computer tablet, Engage, is the first tablet specifically designed for inpatient behavioral health facilities. Engage supports active treatment, improves staff workflows, and boosts financial performance.
   navbar:
     - title: Status
-      href: https://clarity-bhs.github.io/upptime/
+      href: /
     - title: Engage By Clarity
       href: https://engagebyclarity.com/
 
