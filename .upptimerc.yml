@@ -3,10 +3,14 @@ owner: clarity-bhs # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  #- name: Engage by Clarity - STAGING
-  #  url: https://staging.engagebyclarity.com/
-  - name: Engage by Clarity
+  - name: PROD - engagebyclarity.com
     url: https://engagebyclarity.com/
+  - name: SANDBOX - staging.engagebyclarity.com
+    url: https://staging.engagebyclarity.com/
+  - name: DEV - dev.engagebyclarity.com
+    url: https://dev.engagebyclarity.com/
+  - name: PROD - claritybhs.com
+    url: https://dev.engagebyclarity.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
