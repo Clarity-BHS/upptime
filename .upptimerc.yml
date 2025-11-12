@@ -15,7 +15,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  themeUrl: https://status.engagebyclarity.com/clarity-bhs-theme.css
+  # themeUrl: https://status.engagebyclarity.com/clarity-bhs-theme.css
   cname: status.engagebyclarity.com
   #baseUrl: /upptime
   logoUrl: https://github.com/Clarity-BHS/upptime/blob/master/engage-logo.png?raw=true
