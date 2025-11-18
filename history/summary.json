@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.engagebyclarity.com.ico",
     "slug": "sandbox-staging-engagebyclarity-com",
     "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "93.84%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
-    "time": 341,
-    "timeDay": 387,
-    "timeWeek": 340,
-    "timeMonth": 341,
-    "timeYear": 341,
+    "uptime": "98.38%",
+    "uptimeDay": "88.09%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
+    "time": 352,
+    "timeDay": 407,
+    "timeWeek": 351,
+    "timeMonth": 352,
+    "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-11-18": 88
+      "2025-11-18": 171
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://dev.engagebyclarity.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.engagebyclarity.com.ico",
     "slug": "dev-dev-engagebyclarity-com",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "93.83%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
-    "time": 418,
-    "timeDay": 643,
-    "timeWeek": 423,
-    "timeMonth": 418,
-    "timeYear": 418,
+    "status": "up",
+    "uptime": "98.38%",
+    "uptimeDay": "88.09%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
+    "time": 449,
+    "timeDay": 684,
+    "timeWeek": 456,
+    "timeMonth": 449,
+    "timeYear": 449,
     "dailyMinutesDown": {
-      "2025-11-18": 88
+      "2025-11-18": 171
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://dev.engagebyclarity.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.engagebyclarity.com.ico",
     "slug": "prod-claritybhs-com",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "93.83%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
-    "time": 178,
-    "timeDay": 218,
-    "timeWeek": 180,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "status": "up",
+    "uptime": "98.38%",
+    "uptimeDay": "88.08%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
+    "time": 184,
+    "timeDay": 227,
+    "timeWeek": 186,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-11-18": 88
+      "2025-11-18": 171
     }
   }
 ]
