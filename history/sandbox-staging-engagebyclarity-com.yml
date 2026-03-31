@@ -1,7 +1,7 @@
 url: https://staging.engagebyclarity.com/
-status: down
-code: 500
-responseTime: 917
-lastUpdated: 2026-03-31T06:19:00.123Z
+status: up
+code: 200
+responseTime: 594
+lastUpdated: 2026-03-31T06:49:16.427Z
 startTime: 2025-11-11T06:36:08.167Z
 generator: Upptime <https://github.com/upptime/upptime>
