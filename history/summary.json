@@ -60,17 +60,17 @@
     "url": "https://dev.engagebyclarity.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.engagebyclarity.com.ico",
     "slug": "dev-dev-engagebyclarity-com",
-    "status": "down",
-    "uptime": "91.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "91.92%",
-    "time": 677,
-    "timeDay": 375,
-    "timeWeek": 427,
-    "timeMonth": 368,
-    "timeYear": 677,
+    "status": "up",
+    "uptime": "91.91%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "91.91%",
+    "time": 676,
+    "timeDay": 349,
+    "timeWeek": 413,
+    "timeMonth": 366,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2025-11-18": 171,
       "2025-11-26": 75,
@@ -102,7 +102,7 @@
       "2026-03-16": 140,
       "2026-03-23": 25,
       "2026-04-15": 52,
-      "2026-07-24": 0
+      "2026-07-24": 36
     }
   },
   {
@@ -110,17 +110,17 @@
     "url": "https://dev.engagebyclarity.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.engagebyclarity.com.ico",
     "slug": "prod-claritybhs-com",
-    "status": "down",
-    "uptime": "91.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "91.92%",
-    "time": 516,
-    "timeDay": 351,
-    "timeWeek": 361,
+    "status": "up",
+    "uptime": "91.91%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "91.91%",
+    "time": 515,
+    "timeDay": 338,
+    "timeWeek": 355,
     "timeMonth": 310,
-    "timeYear": 516,
+    "timeYear": 515,
     "dailyMinutesDown": {
       "2025-11-18": 171,
       "2025-11-26": 75,
@@ -152,7 +152,7 @@
       "2026-03-16": 138,
       "2026-03-23": 25,
       "2026-04-15": 52,
-      "2026-07-24": 0
+      "2026-07-24": 36
     }
   }
 ]
