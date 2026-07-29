@@ -11,6 +11,9 @@ sites:
     url: https://dev.engagebyclarity.com/
   - name: PROD - claritybhs.com
     url: https://dev.engagebyclarity.com/
+    
+  - name: PROD API - api.engagebyclarity.com
+    url: https://api.engagebyclarity.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
