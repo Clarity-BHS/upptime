@@ -163,21 +163,21 @@
     "url": "https://api.engagebyclarity.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.engagebyclarity.com.ico",
     "slug": "prod-api-api-engagebyclarity-com",
-    "status": "down",
-    "uptime": "98.29%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.29%",
-    "time": 330,
-    "timeDay": 285,
-    "timeWeek": 326,
-    "timeMonth": 328,
-    "timeYear": 330,
+    "status": "up",
+    "uptime": "98.28%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "98.28%",
+    "time": 329,
+    "timeDay": 275,
+    "timeWeek": 318,
+    "timeMonth": 326,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2026-07-30": 723,
       "2026-07-29": 600,
-      "2026-09-21": 0
+      "2026-09-21": 9
     }
   }
 ]
