@@ -61,16 +61,16 @@
     "url": "https://dev.engagebyclarity.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.engagebyclarity.com.ico",
     "slug": "dev-dev-engagebyclarity-com",
-    "status": "up",
+    "status": "down",
     "uptime": "93.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.45%",
     "time": 653,
-    "timeDay": 581,
-    "timeWeek": 576,
-    "timeMonth": 608,
+    "timeDay": 559,
+    "timeWeek": 571,
+    "timeMonth": 606,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2025-11-18": 171,
@@ -104,7 +104,8 @@
       "2026-03-23": 25,
       "2026-04-15": 52,
       "2026-07-24": 36,
-      "2026-08-03": 148
+      "2026-08-03": 148,
+      "2026-09-24": 0
     }
   },
   {
@@ -112,16 +113,16 @@
     "url": "https://dev.engagebyclarity.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.engagebyclarity.com.ico",
     "slug": "prod-claritybhs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "93.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.45%",
     "time": 507,
-    "timeDay": 477,
-    "timeWeek": 480,
-    "timeMonth": 501,
+    "timeDay": 544,
+    "timeWeek": 496,
+    "timeMonth": 505,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2025-11-18": 171,
@@ -155,7 +156,8 @@
       "2026-03-23": 25,
       "2026-04-15": 52,
       "2026-07-24": 36,
-      "2026-08-03": 148
+      "2026-08-03": 148,
+      "2026-09-24": 0
     }
   },
   {
@@ -164,11 +166,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.engagebyclarity.com.ico",
     "slug": "prod-api-api-engagebyclarity-com",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.38%",
     "time": 332,
     "timeDay": 381,
     "timeWeek": 333,
