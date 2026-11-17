@@ -24,8 +24,6 @@ on:
 concurrency:
   group: ${{ github.repository }}-${{ github.head_ref || github.ref_name }}-upptime
   cancel-in-progress: false
-permissions:
-  contents: read
 jobs:
   release:
     name: Check status
