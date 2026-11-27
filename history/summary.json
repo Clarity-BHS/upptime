@@ -4,17 +4,17 @@
     "url": "https://engagebyclarity.com/",
     "icon": "https://icons.duckduckgo.com/ip3/engagebyclarity.com.ico",
     "slug": "prod-engagebyclarity-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.91%",
     "time": 507,
-    "timeDay": 435,
-    "timeWeek": 423,
-    "timeMonth": 514,
-    "timeYear": 519,
+    "timeDay": 384,
+    "timeWeek": 412,
+    "timeMonth": 507,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2025-12-10": 18,
       "2025-12-18": 18,
@@ -26,7 +26,7 @@
       "2026-03-16": 143,
       "2026-04-08": 36,
       "2026-08-19": 30,
-      "2026-11-27": 0
+      "2026-11-27": 5
     }
   },
   {
